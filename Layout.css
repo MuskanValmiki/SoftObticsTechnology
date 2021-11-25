@@ -1,0 +1,56 @@
+.main_div {
+    width: 900px;
+    height: 465px;
+    display: flex;
+    border: 3px solid black;
+}  
+.div1 {
+     
+    width: 300px;
+    height: 150px;
+    display: flex;
+    border: 3px solid black;
+    background-color: green;
+} 
+    
+.div2 {
+    position: absolute;
+    left: 10px;
+    top: 239px;
+    width: 300px;
+    height: 150px;
+    display: flex;
+    border: 3px solid black;
+    background-color: red;
+}
+
+.div3 {
+    position: absolute;
+    left: 10px;
+    top: 395px;
+    width: 300px;
+    height: 150px; 
+    display: flex;
+    border: 3px solid black;
+    background-color: blue;
+} 
+.div4 {
+    position: absolute;
+    left: 548px;
+    top: 83px;
+    width: 360px;
+    height: 222px;
+    display: flex; 
+    border: 3px solid black;
+    background-color: yellow;
+} 
+.div5 {
+    position: absolute;
+    left:535px;
+    top:65px;
+    width: 360px;
+    height: 235px; 
+    display: flex;
+    border: 3px solid black; 
+    background-color: black;  
+}
